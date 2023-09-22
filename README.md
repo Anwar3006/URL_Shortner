@@ -41,14 +41,6 @@ You can either use the above method to setup or use the Dockerfile in each folde
 - After it builds, run `docker run -p -d 3000:80 <name_you_used_for_frontend_image>` inside the Frontend directory
 - The `-d` flag runs the docker containers in detach mode, which means you'll have access to your terminal/cmd/powershell to run the commands
 
-## Dependencies
-
-- List any major dependencies or technologies used in your project.
-
-## Contributing
-
-If you'd like to contribute to this project, please follow my [Contributing Guidelines](CONTRIBUTING.md).
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
